@@ -1,1 +1,1 @@
-# culure-news-dev
+# culture-news-dev
